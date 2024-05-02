@@ -1,5 +1,8 @@
 # Making a website as a team (Git collaboration)
 
+![image](https://github.com/4GeeksAcademy/Joseblue11exercise-collaborative-html-website1/assets/102551448/a3f68855-34fe-4b79-a065-444797d7dc93)
+
+
 Practice your skills in Git while developing a typical website.
 
 Each student works on a different file, for a different part of the website, and the most senior can work as Team Leader (for integration and deployment), unless the teacher prefers to be the team leader of the whole class. The Html-Template-Engine library will take care of putting all the pieces together.
